@@ -167,6 +167,7 @@ input, select, textarea {
 		font-size: 3.25em;
 		letter-spacing: -0.025em;
 		font-weight: 300;
+		line-height: 1.2em;
 	}
 
 		h1 strong {
@@ -222,6 +223,10 @@ input, select, textarea {
 		}
 
 /* Container */
+	
+	.figlabel {
+		font-size: 10px;
+	}
 
 	.container {
 		margin: 0 auto;
@@ -2190,7 +2195,7 @@ input, select, textarea {
 			}
 
 			header {
-				margin: 0 0 4em 0;
+				margin: 0 0 0 0;
 			}
 
 		/* Wrappers */
